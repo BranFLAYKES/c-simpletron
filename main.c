@@ -1,10 +1,7 @@
 //
 //  main.c
-//  project2_BRF.c
-//
-//  Created by Brandon Figueredo on 4/1/17.
-//  Copyright © 2017 Brandon Figueredo. All rights reserved.
-//
+//  project.c
+
 
 #include <stdio.h>
 #include <stdlib.h>
